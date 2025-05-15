@@ -51,7 +51,7 @@ export default function HealthKnowledge() {
               <div className="md:flex">
                 <div className="md:w-1/3">
                   <img 
-                    src="/placeholder.svg?height=200&width=200" 
+                    src="https://picsum.photos/id/330/300" 
                     alt="Diabetes Management" 
                     className="h-full w-full object-cover rounded-t-lg md:rounded-l-lg md:rounded-t-none"
                   />
@@ -80,7 +80,7 @@ export default function HealthKnowledge() {
               <div className="md:flex">
                 <div className="md:w-1/3">
                   <img 
-                    src="/placeholder.svg?height=200&width=200" 
+                    src="https://picsum.photos/id/20/300" 
                     alt="Heart Health" 
                     className="h-full w-full object-cover rounded-t-lg md:rounded-l-lg md:rounded-t-none"
                   />
@@ -109,7 +109,7 @@ export default function HealthKnowledge() {
               <div className="md:flex">
                 <div className="md:w-1/3">
                   <img 
-                    src="/placeholder.svg?height=200&width=200" 
+                    src="https://picsum.photos/id/22/300" 
                     alt="Mental Health" 
                     className="h-full w-full object-cover rounded-t-lg md:rounded-l-lg md:rounded-t-none"
                   />
@@ -138,7 +138,7 @@ export default function HealthKnowledge() {
               <div className="md:flex">
                 <div className="md:w-1/3">
                   <img 
-                    src="/placeholder.svg?height=200&width=200" 
+                    src="https://picsum.photos/id/23/300" 
                     alt="Nutrition" 
                     className="h-full w-full object-cover rounded-t-lg md:rounded-l-lg md:rounded-t-none"
                   />
@@ -176,7 +176,7 @@ export default function HealthKnowledge() {
             <Card className="overflow-hidden">
               <div className="relative">
                 <img 
-                  src="/placeholder.svg?height=200&width=300" 
+                  src="https://picsum.photos/id/530/400" 
                   alt="First Aid Basics" 
                   className="w-full h-48 object-cover"
                 />
@@ -212,7 +212,7 @@ export default function HealthKnowledge() {
             <Card className="overflow-hidden">
               <div className="relative">
                 <img 
-                  src="/placeholder.svg?height=200&width=300" 
+                  src="https://picsum.photos/id/531/400" 
                   alt="Pregnancy Care" 
                   className="w-full h-48 object-cover"
                 />
@@ -248,7 +248,7 @@ export default function HealthKnowledge() {
             <Card className="overflow-hidden">
               <div className="relative">
                 <img 
-                  src="/placeholder.svg?height=200&width=300" 
+                  src="https://picsum.photos/id/532/400" 
                   alt="Diabetes Management" 
                   className="w-full h-48 object-cover"
                 />
@@ -293,7 +293,8 @@ export default function HealthKnowledge() {
             {/* Infographic 1 */}
             <Card className="overflow-hidden">
               <img 
-                src="/placeholder.svg?height=400&width=300" 
+                // src="/placeholder.svg?height=400&width=300" 
+                src="https://picsum.photos/id/238/300" 
                 alt="COVID-19 Prevention" 
                 className="w-full h-64 object-cover"
               />
@@ -315,7 +316,8 @@ export default function HealthKnowledge() {
             {/* Infographic 2 */}
             <Card className="overflow-hidden">
               <img 
-                src="/placeholder.svg?height=400&width=300" 
+                // src="/placeholder.svg?height=400&width=300" 
+                src="https://picsum.photos/id/230/300" 
                 alt="Nutrition Guide" 
                 className="w-full h-64 object-cover"
               />
@@ -337,7 +339,8 @@ export default function HealthKnowledge() {
             {/* Infographic 3 */}
             <Card className="overflow-hidden">
               <img 
-                src="/placeholder.svg?height=400&width=300" 
+                // src="/placeholder.svg?height=400&width=300" 
+                src="https://picsum.photos/id/234/300" 
                 alt="Hypertension Management" 
                 className="w-full h-64 object-cover"
               />
@@ -374,14 +377,14 @@ export default function HealthKnowledge() {
             </CardHeader>
             <CardContent>
               <div className="space-y-4">
-                <div className="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                <div className="flex items-center justify-between p-3 bg-gray-800 rounded-lg">
                   <div className="flex items-center gap-3">
                     <div className="h-10 w-10 bg-teal-100 rounded-full flex items-center justify-center">
                       <BookOpen className="h-5 w-5 text-teal-600" />
                     </div>
                     <div>
                       <h4 className="font-medium">Diabetes Care Package</h4>
-                      <p className="text-sm text-gray-600">5 articles, 2 videos, 3 infographics</p>
+                      <p className="text-sm text-gray-400">5 articles, 2 videos, 3 infographics</p>
                     </div>
                   </div>
                   <Button variant="outline" size="sm" className="border-teal-600 text-teal-600">
@@ -390,7 +393,7 @@ export default function HealthKnowledge() {
                   </Button>
                 </div>
 
-                <div className="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                <div className="flex items-center justify-between p-3 bg-gray-800 rounded-lg">
                   <div className="flex items-center gap-3">
                     <div className="h-10 w-10 bg-red-100 rounded-full flex items-center justify-center">
                       <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-red-600">
@@ -399,7 +402,7 @@ export default function HealthKnowledge() {
                     </div>
                     <div>
                       <h4 className="font-medium">Heart Health Essentials</h4>
-                      <p className="text-sm text-gray-600">4 articles, 3 videos, 2 infographics</p>
+                      <p className="text-sm text-gray-400">4 articles, 3 videos, 2 infographics</p>
                     </div>
                   </div>
                   <Button variant="outline" size="sm" className="border-teal-600 text-teal-600">
@@ -408,7 +411,7 @@ export default function HealthKnowledge() {
                   </Button>
                 </div>
 
-                <div className="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                <div className="flex items-center justify-between p-3 bg-gray-800 rounded-lg">
                   <div className="flex items-center gap-3">
                     <div className="h-10 w-10 bg-purple-100 rounded-full flex items-center justify-center">
                       <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-purple-600">
@@ -419,7 +422,7 @@ export default function HealthKnowledge() {
                     </div>
                     <div>
                       <h4 className="font-medium">Maternal & Child Health</h4>
-                      <p className="text-sm text-gray-600">6 articles, 4 videos, 3 infographics</p>
+                      <p className="text-sm text-gray-400">6 articles, 4 videos, 3 infographics</p>
                     </div>
                   </div>
                   <Button variant="outline" size="sm" className="border-teal-600 text-teal-600">
@@ -428,7 +431,7 @@ export default function HealthKnowledge() {
                   </Button>
                 </div>
 
-                <div className="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                <div className="flex items-center justify-between p-3 bg-gray-800 rounded-lg">
                   <div className="flex items-center gap-3">
                     <div className="h-10 w-10 bg-orange-100 rounded-full flex items-center justify-center">
                       <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-orange-600">
@@ -439,7 +442,7 @@ export default function HealthKnowledge() {
                     </div>
                     <div>
                       <h4 className="font-medium">First Aid & Emergency Care</h4>
-                      <p className="text-sm text-gray-600">3 articles, 5 videos, 4 infographics</p>
+                      <p className="text-sm text-gray-400">3 articles, 5 videos, 4 infographics</p>
                     </div>
                   </div>
                   <Button variant="outline" size="sm" className="border-teal-600 text-teal-600">
@@ -469,7 +472,7 @@ export default function HealthKnowledge() {
             </CardDescription>
           </CardHeader>
           <CardContent>
-            <div className="bg-gray-50 rounded-lg p-4 mb-4">
+            <div className="bg-gray-800 rounded-lg p-4 mb-4">
               <div className="flex gap-4 mb-4">
                 <div className="h-10 w-10 rounded-full bg-teal-100 flex items-center justify-center flex-shrink-0">
                   <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-teal-600">

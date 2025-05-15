@@ -59,7 +59,7 @@ export default function MedicineShop() {
           <Card className="overflow-hidden">
             <div className="relative">
               <img
-                src="/placeholder.svg?height=200&width=300"
+                src="https://images.unsplash.com/photo-1624362772755-4d5843e67047?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?height=200&width=300"
                 alt="Multivitamin Tablets"
                 className="w-full h-48 object-cover"
               />
@@ -102,7 +102,7 @@ export default function MedicineShop() {
           <Card className="overflow-hidden">
             <div className="relative">
               <img
-                src="/placeholder.svg?height=200&width=300"
+                src="https://images.unsplash.com/photo-1684157127180-f7ffd7b67db9?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?height=200&width=300"
                 alt="Blood Glucose Monitor"
                 className="w-full h-48 object-cover"
               />
@@ -144,7 +144,7 @@ export default function MedicineShop() {
           <Card className="overflow-hidden">
             <div className="relative">
               <img
-                src="/placeholder.svg?height=200&width=300"
+                src="https://www.assetpharmacy.com/wp-content/uploads/2017/09/Metformin-500mg-Tablets-100-Tablets.jpg?height=200&width=300"
                 alt="Metformin 500mg"
                 className="w-full h-48 object-cover"
               />
@@ -186,7 +186,7 @@ export default function MedicineShop() {
           <Card className="overflow-hidden">
             <div className="relative">
               <img
-                src="/placeholder.svg?height=200&width=300"
+                src="https://images.inventorysource.com/images/hg/HG1909134.jpg?height=200&width=300"
                 alt="Ashwagandha Capsules"
                 className="w-full h-48 object-cover"
               />

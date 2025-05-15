@@ -680,7 +680,7 @@ export default function MedicineTracker() {
               </div>
             </div>
           </CardContent>
-          <CardFooter className="bg-gray-50 rounded-b-lg">
+          <CardFooter className=" rounded-b-lg">
             <Button className="bg-teal-600 hover:bg-teal-700 w-full">Save Reminder Settings</Button>
           </CardFooter>
         </Card>

@@ -88,9 +88,9 @@ export default function Home() {
             <div className="flex-1 relative">
               <div className="relative z-10 animate-float">
                 <img
-                  src="/placeholder.svg?height=500&width=600"
+                  src="/doc.webp"
                   alt="Rural healthcare illustration"
-                  className="rounded-2xl shadow-xl"
+                  className="rounded-2xl "
                 />
               </div>
 

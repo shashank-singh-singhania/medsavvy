@@ -117,7 +117,7 @@ export default function Navbar() {
                 <Button variant="ghost" size="sm" className="flex items-center gap-2">
                   <Avatar className="h-8 w-8">
                     <AvatarFallback className="bg-teal-100 text-teal-800 dark:bg-teal-900 dark:text-teal-200">
-                      US
+                      S
                     </AvatarFallback>
                   </Avatar>
                   <span className="hidden sm:inline-block">User</span>
@@ -186,7 +186,7 @@ export default function Navbar() {
                     <div className="flex items-center px-4 py-2">
                       <Avatar className="h-10 w-10 mr-3">
                         <AvatarFallback className="bg-teal-100 text-teal-800 dark:bg-teal-900 dark:text-teal-200">
-                          US
+                          S
                         </AvatarFallback>
                       </Avatar>
                       <div>

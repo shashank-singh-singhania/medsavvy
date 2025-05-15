@@ -14,7 +14,7 @@ export default function DoctorConnect() {
       </p>
 
       {/* Search and Filter Section */}
-      <div className="bg-white rounded-xl shadow-md p-6 mb-8">
+      <div className=" rounded-xl shadow-md p-6 mb-8">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
           <div className="relative">
             <Search className="absolute left-3 top-3 h-4 w-4 text-gray-400" />
@@ -61,7 +61,7 @@ export default function DoctorConnect() {
             <div className="flex gap-4">
               <div className="h-20 w-20 rounded-full bg-gray-200 flex-shrink-0 overflow-hidden">
                 <img
-                  src="/placeholder.svg?height=80&width=80"
+                  src="https://images.unsplash.com/photo-1651008376811-b90baee60c1f?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt="Dr. Sharma"
                   className="h-full w-full object-cover"
                 />
@@ -128,7 +128,7 @@ export default function DoctorConnect() {
           <CardContent className="p-6">
             <div className="flex gap-4">
               <div className="h-20 w-20 rounded-full bg-gray-200 flex-shrink-0 overflow-hidden">
-                <img src="/placeholder.svg?height=80&width=80" alt="Dr. Patel" className="h-full w-full object-cover" />
+                <img src="https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?height=80&width=80" alt="Dr. Patel" className="h-full w-full object-cover" />
               </div>
               <div className="flex-1">
                 <h3 className="text-xl font-semibold text-teal-800">Dr. Rajesh Patel</h3>
@@ -192,7 +192,7 @@ export default function DoctorConnect() {
           <CardContent className="p-6">
             <div className="flex gap-4">
               <div className="h-20 w-20 rounded-full bg-gray-200 flex-shrink-0 overflow-hidden">
-                <img src="/placeholder.svg?height=80&width=80" alt="Dr. Reddy" className="h-full w-full object-cover" />
+                <img src="https://plus.unsplash.com/premium_photo-1681966907271-1e350ec3bb95?q=80&w=2986&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?height=80&width=80" alt="Dr. Reddy" className="h-full w-full object-cover" />
               </div>
               <div className="flex-1">
                 <h3 className="text-xl font-semibold text-teal-800">Dr. Lakshmi Reddy</h3>
@@ -256,7 +256,7 @@ export default function DoctorConnect() {
           <CardContent className="p-6">
             <div className="flex gap-4">
               <div className="h-20 w-20 rounded-full bg-gray-200 flex-shrink-0 overflow-hidden">
-                <img src="/placeholder.svg?height=80&width=80" alt="Dr. Kumar" className="h-full w-full object-cover" />
+                <img src="https://images.unsplash.com/photo-1612276529731-4b21494e6d71?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Dr. Kumar" className="h-full w-full object-cover" />
               </div>
               <div className="flex-1">
                 <h3 className="text-xl font-semibold text-teal-800">Dr. Anil Kumar</h3>
